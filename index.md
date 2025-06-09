@@ -1,6 +1,5 @@
 ---
-title: Home
 layout: home
 ---
 
-# krych14m's homepage
+# Fun4Kids home page
