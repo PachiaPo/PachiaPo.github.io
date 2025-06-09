@@ -1,5 +1,7 @@
 title: krych14m's homepage
 description: krych14m's homepage
+baseurl: ""
+url: "https://krych14m.github.io"
 
 theme: minima
 
