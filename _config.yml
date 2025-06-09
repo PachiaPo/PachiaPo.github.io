@@ -3,6 +3,8 @@ description: krych14m's homepage
 
 theme: jekyll-theme-minimal
 
+markdown: kramdown
+
 plugins:
   - jekyll-sitemap
 
