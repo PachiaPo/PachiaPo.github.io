@@ -3,6 +3,8 @@ layout: home
 title: Fun4Kids
 ---
 
+![Fun4Kids Logo](/images/logo.png)
+
 Serdecznie witam na mojej stronie!
 
 Jestem nauczycielką języka angielskiego z ponad 10-letnim doświadczeniem w nauczaniu dzieci i młodzieży. Prowadzę kursy językowe dla dzieci w wieku przedszkolnym i szkolnym, a także zajęcia indywidualne.
