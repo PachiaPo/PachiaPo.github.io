@@ -21,6 +21,7 @@ author: Joanna Hadzicka
 
 navbar-links:
   O mnie: "aboutme"
+  Kontakt: "contact"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
