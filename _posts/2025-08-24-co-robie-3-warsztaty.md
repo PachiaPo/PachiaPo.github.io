@@ -19,5 +19,5 @@ Spotkasz mnie w: <br />
 👨‍👩‍👧‍👦 na zajęciach otwartych dla dzieci i rodziców.
 <p>Podczas zajęć łączymy naukę języka z ruchem, zabawą i kreatywnością – dzieci nawet nie zauważają, że się uczą! 🌟
 </p>
-<p>👉 Chcesz, żeby podobne (albo właśnie niepowtarzalne!)  wydarzenie odbyło się w Twojej placówce? Odezwij się do mnie!
-</p>
+
+👉 Chcesz, żeby podobne (albo właśnie niepowtarzalne!)  wydarzenie odbyło się w Twojej placówce? [Odezwij się do mnie](https://hadzicka.pl/contact)!

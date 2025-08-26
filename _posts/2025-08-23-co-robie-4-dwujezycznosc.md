@@ -20,5 +20,5 @@ Oferuję pomoc i doradztwo w naturalnym wprowadzaniu dwujęzyczności, dopasowan
 🌱 dzielić się historiami i poradami innych rodzin<br />  
 <p>Nie ma jednej recepty – jest nasze wspólne wsparcie. 🚀
 </p>
-<p>👉 Chcesz porozmawiać o dwujęzyczności? Napisz do mnie!
-</p>
+
+👉 Chcesz porozmawiać o dwujęzyczności? [Napisz do mnie](https://hadzicka.pl/contact)!

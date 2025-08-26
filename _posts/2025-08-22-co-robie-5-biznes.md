@@ -22,5 +22,5 @@ Oferuję: <br />
 </p>
 <p>To szansa na połączenie pasji z pracą i szerzenie miłości do czytania. 🌟
 </p>
-<p>👉 Napisz, jeśli chcesz porozmawiać o możliwościach, jakie daje współpraca z Usborne!
-</p>
+
+👉 [Napisz](https://hadzicka.pl/contact), jeśli chcesz porozmawiać o możliwościach, jakie daje współpraca z Usborne!

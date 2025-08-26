@@ -25,6 +25,7 @@ Wspieram placówki nie tylko w zwykłe dni, ale i podczas większych wydarzeń, 
 ✅pikniki \
 ✅dni otwarte \
 ✅festyny \
-Dobrym połączeniem jest zorganizowanie w Twojej placówce zabaw lub warsztatów czytelniczych tego samego dnia, lub w dniach poprzedzających kiermasz.
-<p>Zadbam o wszystko: dopasuję się do Waszych terminów i lokalizacji, przygotuję plakaty informujące rodziców – wystarczy, że się ze mną skontaktujesz!
-</p>
+
+Dobrym połączeniem jest zorganizowanie w Twojej placówce [zabaw lub warsztatów czytelniczych](https://hadzicka.pl/2025-08-24-co-robie-3-warsztaty/) tego samego dnia, lub w dniach poprzedzających kiermasz.
+
+Zadbam o wszystko: dopasuję się do Waszych terminów i lokalizacji, przygotuję plakaty informujące rodziców – wystarczy, że się ze mną [skontaktujesz](https://hadzicka.pl/contact)!
