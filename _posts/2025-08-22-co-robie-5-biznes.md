@@ -6,7 +6,6 @@ cover-img: /assets/img/tlo_bezowe_poziome.png
 thumbnail-img: /assets/img/biznes_20250805_135704.jpg
 share-img: /assets/img/tlo_bezowe_poziome.png
 tags: []
-author: Joanna Hadzicka
 ---
 <p>A może to jak pracuję brzmi jak ciekawa propozycja dla Ciebie? 📚💼
 </p>

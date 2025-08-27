@@ -6,7 +6,6 @@ cover-img: /assets/img/tlo_bezowe_poziome.png
 thumbnail-img: /assets/img/warsztaty_Olowe.jpg
 share-img: /assets/img/tlo_bezowe_poziome.png
 tags: []
-author: Joanna Hadzicka
 ---
 <p>Czytanie to przygoda, a język angielski to świetna zabawa! 🎉📖
 </p>

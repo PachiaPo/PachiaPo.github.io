@@ -6,7 +6,6 @@ cover-img: /assets/img/tlo_bezowe_poziome.png
 thumbnail-img: /assets/img/kiermasz_w_Olowe_20250408.jpg
 share-img: /assets/img/tlo_bezowe_poziome.png
 tags: []
-author: Joanna Hadzicka
 ---
 Książki, które otwierają świat! 🌍📚
 

@@ -6,7 +6,6 @@ cover-img: /assets/img/tlo_bezowe_poziome.png
 thumbnail-img: /assets/img/kiermasz_Lesna_Chatka_20250730_145604.jpg
 share-img: /assets/img/tlo_bezowe_poziome.png
 tags: []
-author: Joanna Hadzicka
 ---
 <p>Organizuję wyjątkowe kiermasze anglojęzycznych książek 📚✨ w żłobkach, przedszkolach, szkołach i innych placówkach!
 Podczas kiermaszu:

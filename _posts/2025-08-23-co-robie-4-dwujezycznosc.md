@@ -6,7 +6,6 @@ cover-img: /assets/img/tlo_bezowe_poziome.png
 thumbnail-img: /assets/img/plac_zabaw_20250303_151949.jpg
 share-img: /assets/img/tlo_bezowe_poziome.png
 tags: []
-author: Joanna Hadzicka
 ---
 <p>Dwujęzyczność to przygoda dla całej rodziny 💕
 </p>
