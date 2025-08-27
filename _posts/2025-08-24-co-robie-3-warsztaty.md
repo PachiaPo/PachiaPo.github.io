@@ -19,4 +19,4 @@ Spotkasz mnie w: <br />
 <p>Podczas zajęć łączymy naukę języka z ruchem, zabawą i kreatywnością – dzieci nawet nie zauważają, że się uczą! 🌟
 </p>
 
-👉 Chcesz, żeby podobne (albo właśnie niepowtarzalne!)  wydarzenie odbyło się w Twojej placówce? [Odezwij się do mnie](https://hadzicka.pl/contact)!
+👉 Chcesz, żeby podobne (albo właśnie niepowtarzalne!)  wydarzenie odbyło się w Twojej placówce? [Odezwij się do mnie]({% link contact.md %})!

@@ -17,9 +17,9 @@ tags: []
 Oferuję: <br />
 🤝 praktyczne wskazówki i narzędzia <br />
 🤝 mentoring i wsparcie w budowaniu własnej drogi <br />
-🤝 społeczność, w której zawsze znajdziesz motywację i inspirację 
+🤝 społeczność, w której zawsze znajdziesz motywację i inspirację
 </p>
 <p>To szansa na połączenie pasji z pracą i szerzenie miłości do czytania. 🌟
 </p>
 
-👉 [Napisz](https://hadzicka.pl/contact), jeśli chcesz porozmawiać o możliwościach, jakie daje współpraca z Usborne!
+👉 [Napisz]({% link contact.md %}), jeśli chcesz porozmawiać o możliwościach, jakie daje współpraca z Usborne!

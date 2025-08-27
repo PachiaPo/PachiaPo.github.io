@@ -17,7 +17,7 @@ Pomagam rodzicom, nauczycielom i placówkom w wyborze anglojęzycznych książek
 
 Książka to świetny pomysł na rozwój dziecka – także w języku angielskim. 💡
 
-👉 Chcesz sprawić radość swojemu dziecku lub swoim uczniom? [Napisz do mnie](https://hadzicka.pl/contact) – pomogę Ci dobrać wyjątkowe egzemplarze!
+👉 Chcesz sprawić radość swojemu dziecku lub swoim uczniom? [Napisz do mnie]({% link contact.md %}) – pomogę Ci dobrać wyjątkowe egzemplarze!
 
 Katalog nowości wydawniczych znajdziesz tutaj: [nowe](https://usborne.com/gb/books/latest-titles?partnerCode=10060591&utm_campaign=fun_for_kids_joanna_hadzicka&utm_source=partner-store&utm_medium=link-share). \
 Pełen katalog książek, słowników, biblioteczek, activity books (z możliwością wyszukiwania według wieku dzieci) znajdziesz tutaj: [wszystkie](https://usborne.com/gb/books/browse-by-age?partnerCode=10060591&utm_campaign=fun_for_kids_joanna_hadzicka&utm_source=partner-store&utm_medium=link-share).

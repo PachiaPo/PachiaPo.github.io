@@ -20,4 +20,4 @@ Oferuję pomoc i doradztwo w naturalnym wprowadzaniu dwujęzyczności, dopasowan
 <p>Nie ma jednej recepty – jest nasze wspólne wsparcie. 🚀
 </p>
 
-👉 Chcesz porozmawiać o dwujęzyczności? [Napisz do mnie](https://hadzicka.pl/contact)!
+👉 Chcesz porozmawiać o dwujęzyczności? [Napisz do mnie]({% link contact.md %})!
